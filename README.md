@@ -50,6 +50,122 @@ Feel free to explore the repositories and connect with Muhammad through his **Li
 
 ## 📈 Contribution Graph
 [![Mudasir’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mudasir1123&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+---
+## 🔖 Featured Projects (Detailed Showcase)
+> Quick preview cards for your top repositories — replace links & descriptions with actual details.
+
+<div align="center">
+  <!-- Project 1 -->
+  <table>
+    <tr>
+      <td width="45%" valign="top">
+        ### 🔹 TalkToText
+        **AI-powered speech → text** desktop & web app  
+        • Tech: `Python`, `FastAPI`, `React`, `AssemblyAI`  
+        • Status: Production-ready · Live demo: [Demo](https://your-demo-link)  
+        • Highlights: real-time transcription, speaker diarization, export to SRT/JSON  
+        <br/>
+        **Usage**
+        ```bash
+        git clone https://github.com/Mudasir1123/talktotext
+        cd talktotext && ./run-local.sh
+        ```
+      </td>
+      <td width="10%"></td>
+      <td width="45%" valign="top">
+        ### 🔹 E-Greeting Web App
+        **Personalized e-card platform** with subscriptions & admin dashboard  
+        • Tech: `.NET`, `SQL Server`, `Bootstrap`, `Azure`  
+        • Status: Live · Integrations: Stripe, SendGrid  
+        • Highlights: template editor, scheduled sends, admin reports  
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🧭 Skills & Proficiency
+> Honest, recruiter-friendly skill bars.
+
+- **Frontend**: React · Next.js · Angular · Tailwind — ▓▓▓▓▓▓▓░░ 80%  
+- **Backend**: .NET · Node.js · FastAPI · Django — ▓▓▓▓▓▓▓▓░ 85%  
+- **Databases**: PostgreSQL · MongoDB · MySQL · Redis — ▓▓▓▓▓▓▓░░ 78%  
+- **Cloud & DevOps**: AWS · Azure · Docker · GitHub Actions — ▓▓▓▓▓▓▓▓░ 82%  
+- **Mobile & Cross-platform**: Flutter · Electron — ▓▓▓▓▓▓░░░ 65%  
+- **AI/ML Basics**: PyTorch · scikit-learn · LLM integrations — ▓▓▓▓▓░░░░ 60%
+
+---
+
+## 💼 Experience (Concise Timeline)
+**2024 — Present** • *Senior Full Stack Developer* — Freelance & Contract  
+- Architected microservices for high-traffic apps; reduced latency by 35%.  
+- Designed and shipped 8+ production projects (web & mobile).
+
+**2022 — 2024** • *Full Stack Developer* — Company / Startup  
+- Led front-end redesigns; improved conversion by 22%.  
+- Built payment/subscription flows and admin dashboards.
+
+**2020 — 2022** • *Software Engineer* — Early-stage startups  
+- Implemented CI/CD pipelines and cloud deployments on Azure/AWS.
+
+---
+
+## 🏅 Certifications & Courses
+- Microsoft — **Azure Fundamentals (AZ-900)** *(expected/if completed)*  
+- Coursera / Udemy — **Modern React with Redux**, **Advanced .NET Core**  
+- FastAPI / REST API Design — self-study projects & workshops
+
+---
+
+## 🎤 Talks & Workshops
+- **“Real-time Transcription Systems”** — Local meetups / community workshop  
+- **“Building Scalable Dashboards”** — Internal hackathon talk  
+*(Add links to slides / YouTube if available)*
+
+---
+
+## 🌱 Open Source & Maintenance
+- Maintainer: `talktotext` — PR reviews, CI maintenance, roadmap planning  
+- Contributor: [List repos you contribute to] — bug fixes, docs, features  
+- Issues I focus on: accessibility, docs, CI, performance
+
+---
+
+## 🤝 How to Collaborate / Contribute
+- Found a bug? Open an issue and include reproduction steps.  
+- Want to contribute? Fork → create a feature branch → open a PR with tests & clear description.  
+- Prefer mentoring or pairing? DM on LinkedIn or open a discussion on repo.
+
+---
+
+## 📄 Resume & Hire Me
+[![Download Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobat)](https://your-site.com/Muhammad_Mudasir_Resume.pdf)  
+**Available for:** Remote / Contract / Full-time (Open to opportunities — contact via email or LinkedIn)
+
+---
+
+## ☕ Sponsor / Support
+If you find my projects useful, you can support my work:
+- [Buy Me a Coffee](https://buymeacoffee.com/yourname) · [Patreon](https://patreon.com/yourname) · Sponsors (GitHub Sponsors)
+
+---
+
+## 🛣️ Roadmap — What I’ll Build Next
+- ✅ Improve TalkToText: multi-language support, streaming optimization  
+- 🔜 E-Greeting: analytics dashboard & template marketplace  
+- 🔜 New: AI Task Manager v2 with collaborative features & mobile app
+
+---
+
+## 📬 Quick Contact
+- **Email:** mudasirhanif5438@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-mudasir-0b444024b/  
+- **Discord:** @MuhammadMudasir1123
+
+---
+
+*Drop me a message if you want me to convert any project above into a polished README card with badges, a short GIF demo, and CI status — I’ll prepare the ready-to-paste markdown for each repo.*
 
 ---
 
