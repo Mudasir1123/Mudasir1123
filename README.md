@@ -67,7 +67,7 @@ Feel free to explore the repositories and connect with Muhammad through his **Li
         <br/>
         **Usage**
         ```bash
-        git clone https://github.com/Mudasir1123/talktotext
+        git clone https://talk-to-text-psi.vercel.app/
         cd talktotext && ./run-local.sh
         ```
       </td>
@@ -97,33 +97,10 @@ Feel free to explore the repositories and connect with Muhammad through his **Li
 
 ---
 
-## 💼 Experience (Concise Timeline)
-**2024 — Present** • *Senior Full Stack Developer* — Freelance & Contract  
-- Architected microservices for high-traffic apps; reduced latency by 35%.  
-- Designed and shipped 8+ production projects (web & mobile).
-
-**2022 — 2024** • *Full Stack Developer* — Company / Startup  
-- Led front-end redesigns; improved conversion by 22%.  
-- Built payment/subscription flows and admin dashboards.
-
-**2020 — 2022** • *Software Engineer* — Early-stage startups  
-- Implemented CI/CD pipelines and cloud deployments on Azure/AWS.
-
----
-
 ## 🏅 Certifications & Courses
 - Microsoft — **Azure Fundamentals (AZ-900)** *(expected/if completed)*  
 - Coursera / Udemy — **Modern React with Redux**, **Advanced .NET Core**  
-- FastAPI / REST API Design — self-study projects & workshops
-
----
-
-## 🎤 Talks & Workshops
-- **“Real-time Transcription Systems”** — Local meetups / community workshop  
-- **“Building Scalable Dashboards”** — Internal hackathon talk  
-*(Add links to slides / YouTube if available)*
-
----
+- FastAPI / REST API Design — self-study projects & workshop
 
 ## 🌱 Open Source & Maintenance
 - Maintainer: `talktotext` — PR reviews, CI maintenance, roadmap planning  
@@ -137,20 +114,6 @@ Feel free to explore the repositories and connect with Muhammad through his **Li
 - Want to contribute? Fork → create a feature branch → open a PR with tests & clear description.  
 - Prefer mentoring or pairing? DM on LinkedIn or open a discussion on repo.
 
----
-
-## 📄 Resume & Hire Me
-[![Download Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobat)](https://your-site.com/Muhammad_Mudasir_Resume.pdf)  
-**Available for:** Remote / Contract / Full-time (Open to opportunities — contact via email or LinkedIn)
-
----
-
-## ☕ Sponsor / Support
-If you find my projects useful, you can support my work:
-- [Buy Me a Coffee](https://buymeacoffee.com/yourname) · [Patreon](https://patreon.com/yourname) · Sponsors (GitHub Sponsors)
-
----
-
 ## 🛣️ Roadmap — What I’ll Build Next
 - ✅ Improve TalkToText: multi-language support, streaming optimization  
 - 🔜 E-Greeting: analytics dashboard & template marketplace  
@@ -163,14 +126,6 @@ If you find my projects useful, you can support my work:
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-mudasir-0b444024b/  
 - **Discord:** @MuhammadMudasir1123
 
----
-
-*Drop me a message if you want me to convert any project above into a polished README card with badges, a short GIF demo, and CI status — I’ll prepare the ready-to-paste markdown for each repo.*
-
----
-
-## ✍️ Inspirational Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ## 🎯 Fun Facts & Goals
 - 🌍 Open to **Remote Work** & Global Collaboration  
