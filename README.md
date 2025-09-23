@@ -95,13 +95,6 @@ Feel free to explore the repositories and connect with Muhammad through his **Li
 - **Mobile & Cross-platform**: Flutter · Electron — ▓▓▓▓▓▓░░░ 65%  
 - **AI/ML Basics**: PyTorch · scikit-learn · LLM integrations — ▓▓▓▓▓░░░░ 60%
 
----
-
-## 🏅 Certifications & Courses
-- Microsoft — **Azure Fundamentals (AZ-900)** *(expected/if completed)*  
-- Coursera / Udemy — **Modern React with Redux**, **Advanced .NET Core**  
-- FastAPI / REST API Design — self-study projects & workshop
-
 ## 🌱 Open Source & Maintenance
 - Maintainer: `talktotext` — PR reviews, CI maintenance, roadmap planning  
 - Contributor: [List repos you contribute to] — bug fixes, docs, features  
